@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/pdfbox-3.0.0/benchmark/src/main/java" />
+      <root url="file://D:/pdfbox-3.0.0/debugger/src/main/java" />
+      <root url="file://D:/pdfbox-3.0.0/examples/src/main/java" />
+      <root url="file://D:/pdfbox-3.0.0/examples/src/test/java" />
+      <root url="file://D:/pdfbox-3.0.0/fontbox/src/main/java" />
+      <root url="file://D:/pdfbox-3.0.0/fontbox/src/test/java" />
+      <root url="file://D:/pdfbox-3.0.0/io/src/main/java" />
+      <root url="file://D:/pdfbox-3.0.0/io/src/test/java" />
+      <root url="file://D:/pdfbox-3.0.0/pdfbox/src/main/java" />
+      <root url="file://D:/pdfbox-3.0.0/pdfbox/src/test/java" />
+      <root url="file://D:/pdfbox-3.0.0/preflight/src/main/java" />
+      <root url="file://D:/pdfbox-3.0.0/preflight/src/test/java" />
+      <root url="file://D:/pdfbox-3.0.0/tools/src/main/java" />
+      <root url="file://D:/pdfbox-3.0.0/tools/src/test/java" />
+      <root url="file://D:/pdfbox-3.0.0/xmpbox/src/main/java" />
+      <root url="file://D:/pdfbox-3.0.0/xmpbox/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
